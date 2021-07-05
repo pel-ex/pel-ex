@@ -11,5 +11,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pel-ex&show_icons=true&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pel-ex&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pel-ex&theme=dark&hide_border=true&hide_title=true&bg_color=0d1117&layout=compact" />
 </a>
