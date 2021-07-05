@@ -2,8 +2,8 @@
  
  [Email Me](mailto:alex@abrhosting.com)
  
-- [x] CSGO Client Side anti-cheat
-- [x] CSGO Server Side anti-cheat
+- [x] <a href="https://onlinefightingleague.com/ac">CSGO Anti Cheat</a>
+- [ ] CSGO Third Party Matchmaking System
 - [x] CSGO Map
 
 ### My GitHub Stats:
