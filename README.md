@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [OFL Play](https://onlinefightingleague.com)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently developing with **Lua**
 
 - 👨‍💻 All of my projects are available at [alexbrand.uk](alexbrand.uk)
 
-- 📫 How to reach me  [Email](mailto:yo@alexbrand.uk)
+- 📫 How to reach me  [Email](mailto:alex@abrhosting.com)
 
 - [x] <a href="https://onlinefightingleague.com/ac">CSGO Anti Cheat</a>
 - [ ] CSGO Third Party Matchmaking System
