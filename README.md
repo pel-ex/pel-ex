@@ -87,8 +87,8 @@ A few things I care about when building software:
 
 ## 📫 Get in Touch
 
-- **ABR Hosting:** [abrhosting.co.uk](https://abrhosting.com)
-- **AWN Hospitality:** [awnhospitality.co.uk](https://awn.it.com)
-- **Email:** [alex.brand@abrhosting.co.uk](mailto:alex.brand@abrhosting.com)
+- **ABR Hosting:** [abrhosting.com](https://abrhosting.com)
+- **AWN Hospitality:** [awn.it.com](https://awn.it.com)
+- **Email:** [alex.brand@abrhosting.com](mailto:alex.brand@abrhosting.com)
 
 ---
